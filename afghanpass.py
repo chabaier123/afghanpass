@@ -3,8 +3,8 @@
 #///.coded by rafi tricker
 import time
 import os,sys
-from cadow2 import wordlist
-from cadow2 import banner
+import wordlist
+import banner
 
 def prRed(skk): print("\033[91m {}\033[00m" .format(skk)) 
 def prGreen(skk): print("\033[92m {}\033[00m" .format(skk)) 
